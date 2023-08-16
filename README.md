@@ -1,5 +1,5 @@
 # MiniProjects
-Codes from various tasks
+Codes from previous tasks
 ## Contents:
 - **Portfolio 1**: Rock, Paper, Scissors image classification
 - **Portfolio 2**: Factors and Factorials python code
