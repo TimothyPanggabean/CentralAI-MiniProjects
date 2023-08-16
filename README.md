@@ -1,5 +1,5 @@
-# CentralAI-MiniProjects
-Codes from CentralAI internship tasks
+# MiniProjects
+Codes from various tasks
 ## Contents:
 - **Portfolio 1**: Rock, Paper, Scissors image classification
 - **Portfolio 2**: Factors and Factorials python code
