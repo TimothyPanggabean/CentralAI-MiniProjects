@@ -1,5 +1,5 @@
-# MiniProjects
-Codes from previous tasks
+# MiniMLProjects
+Compilation of codes from smaller projects
 ## Contents:
 - **Portfolio 1**: Rock, Paper, Scissors image classification using TensorFlow
 - **Portfolio 2**: Factors and Factorials using Python
